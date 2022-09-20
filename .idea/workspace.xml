@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e4a1948-1438-42b0-8463-1823aa6f958a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lession_03/Lession_03_Lab_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_03/Lession_03_Lab_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lession_03/Lession_03_Lab_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_02/Lab_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_02/Lab_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_02/Lab_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_02/Lab_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lession_02/VariableLearns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lession_02/VariableLearns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_02">
+  <component name="RunManager" selected="Application.Lession_03_Lab_03">
     <configuration name="Lab_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lession_02.Lab_01" />
       <module name="LabOopJava" />
@@ -68,12 +68,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableLearns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lession_02.VariableLearns" />
+    <configuration name="Lession_03_Lab_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_03.Lession_03_Lab_01" />
       <module name="LabOopJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lession_02.*" />
+          <option name="PATTERN" value="Lession_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lession_03_Lab_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_03.Lession_03_Lab_02" />
+      <module name="LabOopJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lession_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lession_03_Lab_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lession_03.Lession_03_Lab_03" />
+      <module name="LabOopJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lession_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lession_03_Lab_03" />
+        <item itemvalue="Application.Lession_03_Lab_01" />
+        <item itemvalue="Application.Lession_03_Lab_02" />
         <item itemvalue="Application.Lab_02" />
         <item itemvalue="Application.Lab_01" />
-        <item itemvalue="Application.VariableLearns" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +129,12 @@
       <workItem from="1662869584645" duration="1101000" />
       <workItem from="1662887696112" duration="7348000" />
       <workItem from="1662898547315" duration="20000" />
-      <workItem from="1662907238961" duration="3276000" />
+      <workItem from="1662907238961" duration="4235000" />
+      <workItem from="1663161044762" duration="599000" />
+      <workItem from="1663600234484" duration="1701000" />
+      <workItem from="1663601976915" duration="126000" />
+      <workItem from="1663602128137" duration="3480000" />
+      <workItem from="1663680233694" duration="2966000" />
     </task>
     <servers />
   </component>
