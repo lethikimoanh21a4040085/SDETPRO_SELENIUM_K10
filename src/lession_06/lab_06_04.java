@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class lab_06_04 {
     public static void main(String[] args) {
         String myStr = "Https://google.com";
-        System.out.println(myStr.contains("Http"));   
+        System.out.println(myStr.contains("Http"));
         System.out.println(myStr.contains("Https"));
         System.out.println(myStr.contains(".com"));
         System.out.println(myStr.contains(".net"));

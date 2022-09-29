@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e4a1948-1438-42b0-8463-1823aa6f958a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lession_03/Lession_03_Lab_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_05/lab_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_06/lab_06_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_06/lab_06_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_06/lab_06_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_06/lab_06_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lession_05/lab_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lession_05/lab_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lession_06/lab_06_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lession_06/lab_06_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lab_06_04">
+  <component name="RunManager" selected="Application.lab_05">
     <configuration name="lab_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lession_05.lab_05" />
       <module name="LabOopJava" />
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab_05" />
         <item itemvalue="Application.lab_06_04" />
         <item itemvalue="Application.lab_06_03" />
         <item itemvalue="Application.lab_06_02" />
         <item itemvalue="Application.lab_06_01" />
-        <item itemvalue="Application.lab_05" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +141,9 @@
       <workItem from="1664035824091" duration="4426000" />
       <workItem from="1664115941158" duration="391000" />
       <workItem from="1664207859448" duration="2695000" />
-      <workItem from="1664280676975" duration="4541000" />
+      <workItem from="1664280676975" duration="4854000" />
+      <workItem from="1664369501762" duration="3178000" />
+      <workItem from="1664463292878" duration="365000" />
     </task>
     <servers />
   </component>
