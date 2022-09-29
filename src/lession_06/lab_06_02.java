@@ -11,13 +11,13 @@ public class lab_06_02 {
             String inputPass = input.nextLine();
 
             if (!(inputPass.equals(str))) {
-                System.out.println("Password sai, vui long nhap lai");
+                System.out.println("Wrong password, try again");
             } else {
                 System.out.println("Wellcome");
                 break;
             }
             if (passAttempts == try_enter) {
-                System.out.println("You are reach maximum password tries");
+                System.out.println("try again 1 hour later");
             }
         }
     }
